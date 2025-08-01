@@ -1,0 +1,86 @@
+{"level":"info","message":"ABI Supply Chain Server running on port 3001","service":"abi-supply-chain","timestamp":"2025-08-01T02:01:58.799Z"}
+{"level":"info","message":"Environment: development","service":"abi-supply-chain","timestamp":"2025-08-01T02:01:58.802Z"}
+{"level":"info","message":"ABI Supply Chain Server running on port 3001","service":"abi-supply-chain","timestamp":"2025-08-01T02:03:54.784Z"}
+{"level":"info","message":"Environment: development","service":"abi-supply-chain","timestamp":"2025-08-01T02:03:54.787Z"}
+{"level":"info","message":"GET / - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T02:04:47.899Z"}
+{"level":"info","message":"GET /favicon.ico - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T02:04:48.027Z"}
+{"level":"info","message":"ABI Supply Chain Server running on port 3001","service":"abi-supply-chain","timestamp":"2025-08-01T02:06:05.597Z"}
+{"level":"info","message":"Environment: development","service":"abi-supply-chain","timestamp":"2025-08-01T02:06:05.600Z"}
+{"level":"info","message":"GET /health?id=6fc13a57-e5a2-4964-9cea-dec8ee51149f&vscodeBrowserReqId=1754014004132 - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T02:06:44.147Z"}
+{"level":"info","message":"GET /health - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T02:07:16.529Z"}
+{"level":"info","message":"GET / - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T02:07:48.576Z"}
+{"level":"info","message":"ABI Supply Chain Server running on port 3001","service":"abi-supply-chain","timestamp":"2025-08-01T02:08:52.520Z"}
+{"level":"info","message":"Environment: development","service":"abi-supply-chain","timestamp":"2025-08-01T02:08:52.525Z"}
+{"level":"info","message":"ABI Supply Chain Server running on port 3001","service":"abi-supply-chain","timestamp":"2025-08-01T02:11:03.417Z"}
+{"level":"info","message":"Environment: development","service":"abi-supply-chain","timestamp":"2025-08-01T02:11:03.424Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T02:11:16.982Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T02:11:33.582Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T02:11:48.757Z"}
+{"level":"info","message":"ABI Supply Chain Server running on port 3001","service":"abi-supply-chain","timestamp":"2025-08-01T02:13:02.633Z"}
+{"level":"info","message":"Environment: development","service":"abi-supply-chain","timestamp":"2025-08-01T02:13:02.636Z"}
+{"level":"info","message":"ABI Supply Chain Server running on port 3001","service":"abi-supply-chain","timestamp":"2025-08-01T02:13:28.152Z"}
+{"level":"info","message":"Environment: development","service":"abi-supply-chain","timestamp":"2025-08-01T02:13:28.155Z"}
+{"level":"info","message":"ABI Supply Chain Server running on port 3001","service":"abi-supply-chain","timestamp":"2025-08-01T02:13:39.917Z"}
+{"level":"info","message":"Environment: development","service":"abi-supply-chain","timestamp":"2025-08-01T02:13:39.920Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T02:13:57.795Z"}
+{"level":"info","message":"GET / - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T02:14:54.140Z"}
+{"level":"info","message":"ABI Supply Chain Server running on port 3001","service":"abi-supply-chain","timestamp":"2025-08-01T02:27:34.457Z"}
+{"level":"info","message":"Environment: development","service":"abi-supply-chain","timestamp":"2025-08-01T02:27:34.461Z"}
+{"level":"info","message":"GET /api/auth/verify - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T02:29:06.931Z"}
+{"level":"info","message":"GET /api/auth/verify - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T02:29:06.947Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T02:29:21.673Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T02:29:33.752Z"}
+{"level":"info","message":"GET /api/auth/verify - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T03:05:45.970Z"}
+{"level":"info","message":"GET /api/auth/verify - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T03:05:45.996Z"}
+{"level":"info","message":"GET /api/auth/verify - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T03:06:30.598Z"}
+{"level":"info","message":"GET /api/auth/verify - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T03:06:30.609Z"}
+{"level":"info","message":"ABI Supply Chain Server running on port 3001","service":"abi-supply-chain","timestamp":"2025-08-01T03:16:05.667Z"}
+{"level":"info","message":"Environment: development","service":"abi-supply-chain","timestamp":"2025-08-01T03:16:05.671Z"}
+{"level":"info","message":"ABI Supply Chain Server running on port 3001","service":"abi-supply-chain","timestamp":"2025-08-01T03:16:49.120Z"}
+{"level":"info","message":"Environment: development","service":"abi-supply-chain","timestamp":"2025-08-01T03:16:49.124Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T03:17:39.833Z"}
+{"level":"info","message":"GET /api/auth/verify - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T03:18:01.231Z"}
+{"level":"info","message":"GET /api/auth/verify - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T03:18:01.242Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T03:18:10.605Z"}
+{"level":"info","message":"GET /api/auth/verify - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T03:30:38.136Z"}
+{"level":"info","message":"GET /api/auth/verify - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T03:30:38.150Z"}
+{"level":"info","message":"GET /api/auth/verify - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T03:30:38.359Z"}
+{"level":"info","message":"GET /api/auth/verify - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T03:30:38.367Z"}
+{"level":"info","message":"GET /api/auth/verify - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T03:32:06.521Z"}
+{"level":"info","message":"GET /api/auth/verify - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T03:32:06.530Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T03:32:26.085Z"}
+{"level":"info","message":"GET /api/auth/verify - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T04:20:23.641Z"}
+{"level":"info","message":"GET /api/auth/verify - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T04:20:23.714Z"}
+{"level":"info","message":"GET /api/auth/verify - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T04:20:24.826Z"}
+{"level":"info","message":"GET /api/auth/verify - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T04:20:24.846Z"}
+{"level":"info","message":"GET /api/auth/verify - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T04:20:25.645Z"}
+{"level":"info","message":"GET /api/auth/verify - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T04:20:25.669Z"}
+{"level":"info","message":"GET /api/auth/verify - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T04:20:26.308Z"}
+{"level":"info","message":"GET /api/auth/verify - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T04:20:26.314Z"}
+{"level":"info","message":"GET /api/auth/verify - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T04:23:11.911Z"}
+{"level":"info","message":"GET /api/auth/verify - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T04:23:11.921Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T04:23:23.398Z"}
+{"level":"info","message":"GET /api/auth/verify - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T04:28:36.798Z"}
+{"level":"info","message":"GET /api/auth/verify - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T04:28:36.804Z"}
+{"level":"info","message":"GET /api/auth/verify - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T04:29:16.358Z"}
+{"level":"info","message":"GET /api/auth/verify - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T04:29:16.369Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T04:29:26.344Z"}
+{"level":"info","message":"ABI Supply Chain Server running on port 3001","service":"abi-supply-chain","timestamp":"2025-08-01T04:50:44.848Z"}
+{"level":"info","message":"Environment: development","service":"abi-supply-chain","timestamp":"2025-08-01T04:50:44.851Z"}
+{"level":"info","message":"GET /api/auth/verify - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T04:50:51.136Z"}
+{"level":"info","message":"GET /api/auth/verify - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T04:50:51.151Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T04:52:31.925Z"}
+{"level":"info","message":"ABI Supply Chain Server running on port 3001","service":"abi-supply-chain","timestamp":"2025-08-01T05:07:31.983Z"}
+{"level":"info","message":"Environment: development","service":"abi-supply-chain","timestamp":"2025-08-01T05:07:31.986Z"}
+{"level":"info","message":"GET /api/auth/verify - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T05:07:34.010Z"}
+{"level":"info","message":"GET /api/auth/verify - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T05:07:34.027Z"}
+{"level":"info","message":"GET /api/auth/verify - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T05:08:23.842Z"}
+{"level":"info","message":"GET /api/auth/verify - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T05:08:23.849Z"}
+{"level":"info","message":"GET /api/auth/verify - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T05:25:26.741Z"}
+{"level":"info","message":"GET /api/auth/verify - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T05:25:26.747Z"}
+{"level":"info","message":"GET /api/auth/verify - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T06:19:37.767Z"}
+{"level":"info","message":"GET /api/auth/verify - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T06:19:37.777Z"}
+{"level":"info","message":"GET /api/auth/verify - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T06:44:24.680Z"}
+{"level":"info","message":"GET /api/auth/verify - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T06:44:24.689Z"}
+{"level":"info","message":"GET /api/auth/verify - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T08:11:13.219Z"}
+{"level":"info","message":"GET /api/auth/verify - ::1","service":"abi-supply-chain","timestamp":"2025-08-01T08:11:13.232Z"}
